@@ -92,6 +92,9 @@ Provides a breakdown by:
 
 Enables users to filter and focus on specific areas of responsibility.
 
+![Dashboard Preview](image.png)
+
+
 ---
 
 ## 🧠 Key Insights
